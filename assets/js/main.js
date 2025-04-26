@@ -123,6 +123,30 @@
     }
     skill_web_development();
 
+    skill_reactjs();
+    function skill_reactjs() {
+        $('#reactjs').LineProgressbar({
+            percentage: 70,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_reactjs();
+
+    skill_responsivedesign();
+    function skill_responsivedesign() {
+        $('#responsivedesign').LineProgressbar({
+            percentage: 90,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_responsivedesign();
+
     /*--------------------------------
      04. jQuery counterUp
      ----------------------------------*/
