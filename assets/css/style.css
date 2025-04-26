@@ -367,7 +367,7 @@ p:last-child { margin-bottom:0; }
     .content-block { margin-bottom:40px; }
     .section-title h1 { font-size:36px; margin:0 0 45px; }
     .banner-section .banner-text h3 { font-size:40px; }
-    .counter-box,.service .card-body { padding:20px; }
+    .counter-box,.service .card-body { padding:20px;min-height: auto; }
     .portfolio-details,.blog-details {  padding:20px; }
     .portfolio-details h5,.blog-details h5,.blog .card h5 { font-size:18px; }
     .popup-detail-title { font-size:22px; margin-bottom:20px; padding-bottom:20px; }
